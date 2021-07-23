@@ -2,7 +2,7 @@
 Hello everyone, this file will go over how to use and manage the testnetwork blockchain for our organization.
 
 You will begin building two nodes within your BLOCKCHAIN_TOOLS folder on your gitbash/terminal and the process should look like the picture below:
-![Node](StepOne.png)
+![Node](Screenshots/StepOne.png)
 
 Make sure to save the Keystore file and the public key adress for both nodes. 
 
